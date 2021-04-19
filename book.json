@@ -1,0 +1,40 @@
+{
+	"title": "lengdaner_share_book",
+	"author": "lengdaner",
+	"description": "book_share",
+	"language": "zh-hans",
+	"gitbook": "3.2.3",
+	"plugins": [
+		"highlight",
+		"search-pro",
+		"livereload",
+		"back-to-top-button",
+		"github",
+		"-sharing",
+		"sharing-plus",
+		"chapter-fold",
+		"anchor-navigation-ex",
+		"katex",
+		"icp"
+	],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://github.com/nafei-zhang/lengdaner_share_book"
+		},
+		"sharing": {
+			"weibo": true,
+			"qq": true,
+			"all": [
+				"douban", "linkedin", "qzone", "facebook", "twitter", "google"
+			]
+		},
+		"anchor-navigation-ex": {
+			"showLevel": false,
+			"showGoTop": false
+		},
+		"icp": {
+			"number": "陕ICP备17019698号"
+		}
+
+	}
+}
