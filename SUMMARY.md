@@ -58,8 +58,11 @@
     * [贪心算法](/Articles/DataStructureAndAlgorithm/Greedy.md)
     * [动态规划](/Articles/DataStructureAndAlgorithm/DP.md)
     * [三层商品选项优化](/Articles/DataStructureAndAlgorithm/OptimizeVariations.md)
-* [实战项目](/Articles/Projects/Projects.md)
 * [心得与总结](/Articles/Summary/Summary.md)
     * [写作技巧分享](/Articles/Summary/WritingSkills.md)
+* [资源分享](/Articles/ResourcesSharing/ResourcesSharing.md)
+    * [前端相关](/Articles/ResourcesSharing/FrontEnd.md)
+    * [后端相关](/Articles/ResourcesSharing/BackEnd.md)
+    * [测试相关](/Articles/ResourcesSharing/TestAbout.md)
 
 
